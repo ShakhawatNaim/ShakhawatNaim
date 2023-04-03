@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+##### I'm Shakhawat Naim, a Frontend Developer.
 
-<!--
-**ShakhawatNaim/ShakhawatNaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills & Tools
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap)](https://skills.thijs.gg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝🏼 Connect with me  
+<a href="https://linkedin.com/in/shakhawat-naim" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/shakhawatnaim" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
